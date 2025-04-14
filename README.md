@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [Chat Di Gruppo](https://github.com/PaoloRobolini/Chat-di-Gruppo/)
 - 🌱 I’m currently learning *C++*, *Java*, *JavaScript* and *Python*
+- 🔭 I’m currently working on [Chat Di Gruppo](https://github.com/PaoloRobolini/Chat-di-Gruppo/)
+- 🔭 I’ve worked on [The Son of Pong](https://github.com/SteMarco07/Versioni-The-son-of-PONG)
+  
 <!--
 
 - 👯 I’m looking to collaborate on ...
