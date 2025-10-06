@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning *C++*, *Java*, *JavaScript*, *Python* and *PHP*
-- 🔭 I’m currently working on [Kaban Board] (https://github.com/matteofogazzi/progettoWebTPI)
+- 🔭 I’m currently working on [Kanban Board](https://github.com/matteofogazzi/progettoWebTPI)
 - 🔭 I’ve worked on [The Son of Pong](https://github.com/SteMarco07/Versioni-The-son-of-PONG) and [Chat Di Gruppo](https://github.com/PaoloRobolini/Chat-di-Gruppo/)
   
 <!--
